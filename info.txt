@@ -1,0 +1,22 @@
+RUBY is a dynamic programming language you can use to write anything from simple scripts to games and web applications.
+Scripting language 
+ Designed by yukihiro Matsumoto(MATZ) in 1993
+ PURE  object oriented language 
+ Features similar to pearl , smalltalk and python 
+ can be used to write COMMON GATEWAY INTERFACE (CGI) scripts 
+ Ruby can be embedded to HTML ? What does It mean . asked on quora lets see. 
+ ruby can be used to create internet and intranet applications .
+ 
+ 
+ Ruby supports many GUI tools such as 
+Tcl : general purpose multi-paradigm system programming language.
+Tk :is a cross platform widget toolkit used for building GUI in many languages.
+GTK :is a cross-platform widget toolkit for creating graphical user interfaces
+OpenGL :Open Graphics Library is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics.
+
+
+ruby can be easily connected to :
+DB2:is a database product from IBM.
+MySQL:is an open-source relational database management system.
+Oracle:Oracle Autonomous Database is the world’s first fully automated cloud database platform powered by machine learning.
+Sybase:database management system (DBMS) 
